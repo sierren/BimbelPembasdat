@@ -1,0 +1,11 @@
+INSERT INTO mapel (kode_mapel, nama_mapel) VALUES
+('76478', 'Matematika'),
+('27014', 'Biologi'),
+('12835', 'Fisika'),
+('60881', 'Kimia'),
+('36521', 'Inggris'),
+('92556', 'Ekonomi'),
+('74417', 'Geografi'),
+('94562', 'Indonesia'),
+('77737', 'Mandarin'),
+('51323', 'Sejarah');

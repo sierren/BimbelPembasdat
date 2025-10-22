@@ -1,0 +1,11 @@
+INSERT INTO wali_siswa (nik, nama_w, alamat_w, tanggal_w) VALUES
+('7924383267161462', 'Theresa Gray', 'Botug Extension', '1988-03-30'),
+('7325934840915020', 'Chester Lloyd', 'Ewibu Court', '1989-09-01'),
+('0214830022818596', 'Phillip Waters', 'Ziwfuk Key', '2004-12-30'),
+('3691403245836212', 'Beulah Lyons', 'Muwud Street', '1981-03-14'),
+('4480704978841367', 'Clarence Cohen', 'Sozir Street', '1984-04-04'),
+('4257432519019812', 'Ray Miller', 'Ifoon Square', '1981-08-30'),
+('4742944649823889', 'Miguel Salazar', 'Cirmo Junction', '2000-07-16'),
+('1531685060566411', 'Wayne Hampton', 'Raeze Manor', '1978-02-26'),
+('1483262737391246', 'Lora Saunders', 'Sohabi Place', '2001-03-22'),
+('7900170791059187', 'Cora Doyle', 'Iwazup Circle', '1982-05-27');

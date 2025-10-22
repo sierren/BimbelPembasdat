@@ -1,0 +1,4 @@
+CREATE TRIGGER auto_jadwal
+BEFORE INSERT ON jadwal
+FOR EACH ROW
+EXECUTE FUNCTION isi_jadwal();

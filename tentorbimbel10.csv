@@ -1,0 +1,11 @@
+INSERT INTO tentor (id_tentor, nama_tentor, alamat_tentor, tanggal_t) VALUES
+('456482', 'Daisy Armstrong', 'Uwoir River', '2004-06-25'),
+('141161', 'Lydia Moody', 'Utbin Glen', '1994-11-25'),
+('523202', 'Dominic Owens', 'Usuce Avenue', '1984-04-28'),
+('766273', 'Celia McCarthy', 'Deati Park', '1994-11-21'),
+('604857', 'Millie Reeves', 'Wuvob Point', '2005-04-26'),
+('222598', 'Jason Cobb', 'Wogomi Pike', '1965-10-12'),
+('812334', 'Marcus Cohen', 'Horeb Boulevard', '1968-08-02'),
+('712787', 'Elmer Gonzalez', 'Zordic Plaza', '1970-12-22'),
+('049780', 'Jay Price', 'Bemelo Loop', '1990-06-06'),
+('252965', 'Polly Todd', 'Wikif Pass', '2000-07-28');
